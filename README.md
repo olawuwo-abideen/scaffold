@@ -1,2 +1,1 @@
-# scaffold
-Scaffold Python Project 
+A Python Scaffold Boilerplate 
